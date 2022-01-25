@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_pass">Enter password</string>
+    <string name="btn_login_text">login</string>
+    <string name="or">------------------- or --------------------</string>
+    <string name="want_to_create_account">Want to create account ?</string>
+    <string name="signup">signup</string>
+    <string name="already_have_account">Already have account ?</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="forget_password">forget password</string>
+    <string name="sharedtext">hello</string>
+    <string name="to_recover_your_password">To Recover your password</string>
+    <string name="submit">Submit</string>
+    <string name="help_contect"><![CDATA[Help & Contect]]></string>
+    <string name="about_us">About us</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

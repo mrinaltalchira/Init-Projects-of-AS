@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:title="New Data"
+        android:icon="@drawable/ic_newfeed"
+        android:id="@+id/menu_newfeed"/>
+
+    <item android:title="Edit Data"
+        android:icon="@drawable/ic_edtrecord"
+        android:id="@+id/menu_edtrecord"/>
+
+    <item android:title="Show all"
+        android:icon="@drawable/ic_showall"
+        android:id="@+id/menu_showall"/>
+</group>
+
+</menu>
+
+

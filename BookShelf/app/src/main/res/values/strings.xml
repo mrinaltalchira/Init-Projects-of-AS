@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Book Shelf</string>
+    <string name="one">option1</string>
+    <string name="two">option2</string>
+    <string name="three">option3</string>
+    <string name="four">option4</string>
+    <string name="open">open</string>
+
+    <string name="close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_two_fragment">hello two fragment</string>
+    <string name="hello_three_fragment">hello three fragment</string>
+    <string name="hello_four_fragment">Hello four fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="or">____________________or__________________</string>
+    <string name="social_media_signup">Social media signup</string>
+    <string name="want_to_create_account">Want to create a account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sharedtext">Hello there</string>
+    <string name="hi">Hi</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter e-Mail</string>
+    <string name="sign_up_btn">SIGN UP</string>
+    <string name="already_have_an_accound">Already have an account?</string>
+    <string name="login_btn_txt">login</string>
+    <string name="get_reset_link">Sent reset link</string>
+    <string name="send_mail">SENT MAIL</string>
+    <string name="Pofile">Profile</string>
+    <string name="aboutus">About_us</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    
+    
+    <string-array name="category">
+
+        <item>Action and Adventure</item>
+        <item>Classics</item>
+        <item>Comic Book or Graphic Novel</item>
+        <item>Detective and Mystery</item>
+        <item>Fantasy</item>
+        <item>Historical Fiction</item>
+        <item>Horror</item>
+        <item>Literary Fiction</item>
+        <item>Romance</item>
+        <item>Science Fiction (Sci-Fi)</item>
+        <item>Short stories</item>
+        <item>Suspense and Thrillers</item>
+        <item>Women\'s Fiction</item>
+        <item>Biographies and Autobiographies</item>
+        <item>Cookbooks</item>
+        <item>Biography</item>
+        <item>Memoir</item>
+        <item>Poetry</item>
+        <item>Self help</item>
+        <item>True Crime</item>
+
+    </string-array>
+    
+</resources>
